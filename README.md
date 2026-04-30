@@ -3,7 +3,9 @@
 
 # PARECER INDIVIDUAL: PRÁTICAS, FERRAMENTAS DE IA E ÉTICA NO DESENVOLVIMENTO (UNIDADE II)
 
-# INTRODUÇÃO: Este parecer tem como objetivo apresentar reflexões sobre a Unidade II, baseando-se no conteúdo abordado no Podcast da disciplina. O foco principal é a integração de assistentes de inteligência artificial no desenvolvimento de software e seus impactos nas práticas diárias e no fluxo de trabalho. É fundamental destacar a premissa de que a IA não é um oráculo e não é infalível. Conforme discutido, a IA não está aqui para substituir o programador, mas muito pelo contrário, busca-se estabelecer um cenário onde o programador e a IA se somam em vez de um atrapalhar o outro.
+
+# INTRODUÇÃO: 
+Este parecer tem como objetivo apresentar reflexões sobre a Unidade II, baseando-se no conteúdo abordado no Podcast da disciplina. O foco principal é a integração de assistentes de inteligência artificial no desenvolvimento de software e seus impactos nas práticas diárias e no fluxo de trabalho. É fundamental destacar a premissa de que a IA não é um oráculo e não é infalível. Conforme discutido, a IA não está aqui para substituir o programador, mas muito pelo contrário, busca-se estabelecer um cenário onde o programador e a IA se somam em vez de um atrapalhar o outro.
 
 
 # AUTOMAÇÃO, REFATORAÇÃO E SUGESTÕES: 
@@ -19,7 +21,8 @@ A introdução dessas ferramentas não muda apenas o código, mas o workflow (fl
 Em relação à ética, o podcast levantou pontos cruciais. Ao decorrer disto houve: No ambiente ético e de segurança, é fundamental compreender que a responsabilidade final pelo código é inteiramente do desenvolvedor. A IA atua como uma ferramenta de auxílio, não como um agente autônomo.
 
 
-# CONCLUSÃO: De todo modo, as ferramentas de IA generativa para código são aliados poderosos que vieram para ficar. Contudo, elas exigem que o profissional atue mais como um "arquiteto e revisor" do que como um mero digitador de código, mantendo sempre a responsabilidade ética e técnica sobre o produto final.
+# CONCLUSÃO: 
+De todo modo, as ferramentas de IA generativa para código são aliados poderosos que vieram para ficar. Contudo, elas exigem que o profissional atue mais como um "arquiteto e revisor" do que como um mero digitador de código, mantendo sempre a responsabilidade ética e técnica sobre o produto final.
 
 
 # FONTES USADAS ACERCA DA PESQUISA:
