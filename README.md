@@ -1,6 +1,6 @@
 # AULA-09 PARECER INDIVIDUAL 
 ------------------------------------------------------------------------------------------
-
+Nome: Gabriel Silva de Carvalho 
 # PARECER INDIVIDUAL: PRÁTICAS, FERRAMENTAS DE IA E ÉTICA NO DESENVOLVIMENTO (UNIDADE II)
 
 
